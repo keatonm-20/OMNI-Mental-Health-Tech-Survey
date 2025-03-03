@@ -1,0 +1,36 @@
+Column Name,Description
+self_employed,Whether the respondent is self-employed (Yes/No)
+company_size,Number of employees in the respondent's company
+tech_company,Whether the employer is primarily a tech company (Yes/No)
+tech_role,Whether the respondent’s primary role is related to tech/IT
+mental_health_discussed,Whether the employer has formally discussed mental health
+mental_health_resources,Whether the employer provides resources for mental health
+leave_request_ease,Perceived ease of requesting leave for mental health reasons
+negative_consequences,Concern about negative consequences of discussing mental health
+comfortable_coworkers,Comfort level discussing mental health with coworkers
+comfortable_supervisor,Comfort level discussing mental health with supervisors
+mental_vs_physical_health,Whether the employer values mental and physical health equally
+mental_health_coverage,Whether medical coverage includes mental health treatment
+mental_health_resources_knowledge,Awareness of local or online mental health resources
+productivity_affected,Whether mental health issues affect productivity
+productivity_impact_pct,Percentage of work time affected by mental health issues
+discuss_past_coworkers,Willingness to discuss mental health with past coworkers
+discuss_past_supervisor,Willingness to discuss mental health with past supervisors
+past_employer_mental_health,Whether past employers took mental health seriously
+discuss_in_interview,Willingness to discuss mental health in a job interview
+interview_reason,Reason for discussing or not discussing mental health in interviews
+career_impact,Whether being identified with a mental health issue would harm career
+negative_perception,Whether coworkers would view respondent negatively for mental health
+bad_response_observed,Whether respondent observed a poor employer response to mental health
+less_likely_to_reveal,Whether past observations made respondent less likely to disclose issues
+mental_health_diagnosis,Whether respondent has been diagnosed with a mental health condition
+diagnosed_condition,Specific mental health condition(s) diagnosed
+sought_treatment,Whether respondent has sought professional treatment
+treated_interference,Whether treated mental health issues interfere with work
+untreated_interference,Whether untreated mental health issues interfere with work
+age,Respondent's age
+gender,Respondent's gender
+country,Country of residence
+state,U.S. state or territory of residence (if applicable)
+work_position,Job role or work position
+remote_work,Whether the respondent works remotely
