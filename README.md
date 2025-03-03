@@ -1,1 +1,1 @@
-# OMNI-Mental-Health-Tech-Survey
+# OMNI Mental Health Tech Survey
