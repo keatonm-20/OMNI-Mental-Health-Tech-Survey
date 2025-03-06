@@ -6,5 +6,5 @@ This mental health survey is to see the mental health state of tech workers and 
 ## Key Features
 #### Trend Analysis
 
-#### Tech Company Patterns
+#### Tech Company Patterns:
 Noticed 
