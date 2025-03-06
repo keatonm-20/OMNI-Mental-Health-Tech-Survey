@@ -22,5 +22,5 @@ Career & Productivity Impact: How mental health has affected work performance, c
 **Males Are Most Worried:** Men are the most concerned about being classified as mentally ill hindering their career.
 ### 2. Does Mental Health Get Treated Equally as Physical Health
 ![p2](https://github.com/user-attachments/assets/9bb043a9-920c-43c3-91e2-b359b2c9c164)
-**- Tech Employees on Mental and Physical Health:** Most people who work for a tech company say mental health is treated equally as physical health.
+- **Tech Employees on Mental and Physical Health:** Most people who work for a tech company say mental health is treated equally as physical health.
 
