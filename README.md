@@ -17,5 +17,10 @@ This mental health survey is to see the mental health state of tech workers and 
 Career & Productivity Impact: How mental health has affected work performance, career progression, and employer responses to mental health discussions.
 ***
 ## Insights & Findings
-### 1.
+### 1. Does Being Identified as Having A Mental Health Issue Harm Your Career
+![p1](https://github.com/user-attachments/assets/75fa2d60-92bc-439f-922c-55db7c384bcc)
+**Males Are Most Worried:** Men are the most concerned about being classified as mentally ill hindering their career.
+### 2. Does Mental Health Get Treated Equally as Physical Health
+![p2](https://github.com/user-attachments/assets/9bb043a9-920c-43c3-91e2-b359b2c9c164)
+**- Tech Employees on Mental and Physical Health:** Most people who work for a tech company say mental health is treated equally as physical health.
 
